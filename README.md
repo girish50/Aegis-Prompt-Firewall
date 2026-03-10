@@ -89,4 +89,4 @@ _Developed as a high-security Proof of Concept for the 2026 AI Hackathon._
 
 ## 👨‍💻 Author
 
-**P.Girish Varma**
+**P. Girish Varma**
